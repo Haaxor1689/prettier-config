@@ -1,13 +1,11 @@
-# `@azz/prettier-config`
-
-> My personal [Prettier](https://prettier.io) config.
+Prettier configuration based on my personal preferences
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+$ yarn add --D prettier-config-haaxor1689s-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +13,6 @@ $ yarn add --dev @azz/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "prettier-config-haaxor1689s-config"
 }
 ```
