@@ -1,0 +1,19 @@
+{
+  "name": "prettier-config-haaxor1689s-config",
+  "version": "1.0.1",
+  "description": "Prettier configuration based on my personal preferences",
+  "main": "index.json",
+  "author": "Haaxor1689",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Haaxor1689/prettier-config-haaxor1689s-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Haaxor1689/prettier-config-haaxor1689s-config/issues"
+  },
+  "homepage": "https://github.com/Haaxor1689/prettier-config-haaxor1689s-config",
+  "dependencies": {
+    "prettier": "^2.4.0"
+  }
+}
