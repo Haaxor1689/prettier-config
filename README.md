@@ -1,18 +1,25 @@
-Prettier configuration based on my personal preferences
+Prettier config I use in my projects
 
 ## Usage
 
-**Install**:
+First install the package
 
 ```bash
-$ yarn add --D prettier-config-haaxor1689s-config
+yarn add --D @haaxor1689/prettier-config
 ```
 
-**Edit `package.json`**:
+Install peer dependencies
+
+```bash
+npx install-peerdeps --dev @haaxor1689/prettier-config
+```
+
+Next add the config under `prettier` key to your `package.json`.
 
 ```jsonc
+// package.json
 {
   // ...
-  "prettier": "prettier-config-haaxor1689s-config"
+  "prettier": "@haaxor1689/prettier-config"
 }
 ```
