@@ -2,13 +2,7 @@ Prettier config I use in my projects
 
 ## Usage
 
-First install the package
-
-```bash
-yarn add --D @haaxor1689/prettier-config
-```
-
-Install peer dependencies
+First install the package and its peer dependencies
 
 ```bash
 npx install-peerdeps --dev @haaxor1689/prettier-config
