@@ -1,12 +1,12 @@
 {
   "name": "@haaxor1689/prettier-config",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Prettier config I use in my projects",
   "main": "config.json",
   "author": "Haaxor1689",
   "license": "MIT",
   "peerDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "^2.8.4"
   },
   "repository": {
     "type": "git",
