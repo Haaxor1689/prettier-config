@@ -1,4 +1,4 @@
-Prettier config I use in my projects
+Prettier config for React + Next + Tailwind projects
 
 ## Usage
 
