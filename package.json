@@ -6,7 +6,7 @@
   "author": "Haaxor1689",
   "license": "MIT",
   "peerDependencies": {
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.2.8"
   },
   "repository": {
