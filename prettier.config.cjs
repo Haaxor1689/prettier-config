@@ -1,12 +1,10 @@
 /** @type {import("prettier").Config} */
-const config = {
-  $schema: "http://json.schemastore.org/prettierrc",
+module.exports = {
 	useTabs: true,
-  singleQuote: true,
-  quoteProps: "consistent",
-  trailingComma: "none",
-  arrowParens: "avoid",
-  plugins: [require.resolve("prettier-plugin-tailwindcss")],
+	singleQuote: true,
+	quoteProps: 'consistent',
+	trailingComma: 'none',
+	arrowParens: 'avoid',
+	endOfLine: 'auto',
+	plugins: [require.resolve('prettier-plugin-tailwindcss')]
 };
-
-module.exports = config;
